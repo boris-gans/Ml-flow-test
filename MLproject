@@ -1,6 +1,6 @@
 name: Ml-flow-test
 
-python_env: requirements.txt
+conda_env: conda.yaml
 
 entry_points:
   main:
