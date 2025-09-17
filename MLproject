@@ -1,6 +1,6 @@
 name: Ml-flow-test
 
-python_env: requirements.txt  # or requirements.txt if you prefer
+python_env: requirements.txt
 
 entry_points:
   main:
