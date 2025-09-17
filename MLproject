@@ -1,0 +1,7 @@
+name: Ml-flow-test
+
+conda_env: requirements.txt  # or requirements.txt if you prefer
+
+entry_points:
+  main:
+    command: "python main.py"
